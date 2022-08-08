@@ -1,0 +1,21 @@
+{
+  "name": "color-pop-dark",
+  "displayName": "Color Pop Dark",
+  "description": "Poppin Colors",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Color Pop Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Color Pop Dark-color-theme.json"
+      }
+    ]
+  }
+}
