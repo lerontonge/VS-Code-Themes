@@ -1,0 +1,21 @@
+{
+  "name": "caribbean-candy",
+  "displayName": "Caribbean Candy - Dark",
+  "description": "Caribbean Inspired Candy Colors Dark Theme",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.69.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Caribbean Candy",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Caribbean Candy-color-theme.json"
+      }
+    ]
+  }
+}
