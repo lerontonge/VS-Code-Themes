@@ -2,11 +2,11 @@
   "name": "color-pop-dark",
   "displayName": "Color Pop Dark",
   "description": "Poppin Colors",
-  "version": "0.0.3",
+  "version": "1.0.4",
   "publisher": "RenegadeLabs",
 	"repository":{
 		"type": "git",
-		"url":"https://github.com/lerontonge/VS-Code-Themes/blob/master/do-you-even-dev-bro-fork-color-theme.json"
+		"url":"https://github.com/lerontonge/VS-Code-Themes/tree/master/color-pop-dark"
 	},
   "keywords":[
     "colorpop",
